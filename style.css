@@ -109,11 +109,11 @@ footer a:hover { text-decoration: underline; }
 .trust-bar { background: var(--bg-alt); border-bottom: 1px solid var(--border); padding: 1.5rem 2rem; text-align: center; }
 .trust-bar p { font-size: .75rem; color: var(--text-muted); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 1.1rem; }
 .trust-logos { display: flex; justify-content: center; align-items: center; gap: 2.5rem; flex-wrap: wrap; }
-.trust-logo { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 1.05rem; color: #b0b8c8; }
+.trust-logo { font-family: 'sans-serif', sans-serif; font-weight: 700; font-size: 1.05rem; color: #b0b8c8; }
 
 /* ── STAT CARDS ── */
 .stat-card { background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.1); border-radius: 12px; padding: 1.5rem; }
-.stat-card .num { font-family: 'Syne', sans-serif; font-size: 2.2rem; font-weight: 800; color: #fff; line-height: 1; }
+.stat-card .num { font-family: 'sans-serif', sans-serif; font-size: 2.2rem; font-weight: 800; color: #fff; line-height: 1; }
 .stat-card .num span { color: #7fc4f7; }
 .stat-card .label { font-size: .8rem; color: #7f9ab0; margin-top: .4rem; }
 
